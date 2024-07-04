@@ -1,3 +1,3 @@
 ## Prayer Times
 
-![Sun declination](sun_declibation.jpg)
+![Sun declination](sun_declination.jpg)
