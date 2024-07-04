@@ -1,5 +1,8 @@
 ## Prayer Times
 
+Di bawah ini adalah daftar kalkulasi waktu sholat dari sumber [islamicFInder](https://islamicfinder.org)
+![daftar list kalkulasi sudut sholat](list_of_methods.jpg "Daftar cara penghitungan sudut sholat")
+
 
 ### Penghitungan Sun declination
 
