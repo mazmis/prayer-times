@@ -1,6 +1,6 @@
 ## Prayer Times
 
-### Pendahuluan
+#### Pendahuluan
 Dalam penentuan waktu sholat di Qur'an Belajar, sebaiknya dipakai rules yaitu:
 1. Jika di satu region ada lembaga yang memiliki otoritas untuk mengeluarkan waktu sholat, dan jadwal sholat dapat diakses/didapat daftar/ada API-nya, maka jadwal dari lembaga tersebut yang akan dipakai. Daftarnya adalah sebagai berikut:
     - wilayah Indonesia: SIHAT KEMENAG
@@ -33,7 +33,27 @@ Di bawah ini adalah daftar kalkulasi waktu sholat dari sumber [islamicFInder](ht
 ![daftar list kalkulasi sudut sholat](list_of_methods.jpg "Daftar cara penghitungan sudut sholat")
 
 
-### Penghitungan Sun declination
+
+### Cara menentukan waktu sholat
+
+Penentuan waktu sholat menggunakan metode dan rumus khusus untuk menghitung waktu shalat berdasarkan posisi matahari. Berikut rincian rinci bagaimana setiap waktu sholat dihitung:
+
+        1. Subuh
+        Waktu subuh dihitung ketika matahari berada x derajat di bawah ufuk pada pagi hari. x tergantung dengan besar derajat yang digunakan oleh lembaga penghitung
+
+        2. Dhuhur
+        Waktu dzuhur dihitung pada saat matahari berada pada titik puncaknya, ditambah waktu yang diperlukan matahari untuk bergerak seperdelapan diameter tampak (kurang lebih 5 menit) <= menurut WML
+
+        3. Ashar
+        Penghitungan waktu Ashar yaitu bayangan suatu benda sama dengan panjangnya ditambah panjang bayangannya pada siang hari.
+
+        4. Maghrib
+        Waktu Maghrib dihitung ketika matahari terbenam sepenuhnya di bawah ufuk.
+
+        5. Isya
+        Waktu Isya dihitung ketika matahari berada y derajat di bawah ufuk pada malam hari. y tergantung dari besar sudut menurut lembaga penghitung.
+
+#### Penghitungan Sun declination
 
 sumber [video youtube](https://www.youtube.com/watch?v=ZALVBxzmPIk)
 ![Sun declination](sun_declination.jpg "Sun declination")
