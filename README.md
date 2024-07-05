@@ -55,6 +55,25 @@ Penentuan waktu sholat menggunakan metode dan rumus khusus untuk menghitung wakt
         Waktu Isya dihitung ketika matahari berada y derajat di bawah ufuk pada malam hari. y tergantung dari besar sudut menurut lembaga penghitung.
 
 
+## Formula Penghitungan waktu sholat
+
+Seacara umum, langkah-langkah untuk menghitung waktu sholat adalah sebagai berikut:
+
+    1. Mengubah tanggal masehi menjadi Julian
+    2. Menghitung solar declination dan equation of time dari tanggal julian tersebut
+    3. Menghitung waktu sholat dengan parameter solar declination dan EOT pada nomor 2, (termasuk parameter sudut subuh dan isya => tergantung metode yang digunakan lembaga penghitung)
+
+
+#### Penghitungan waktu Julian
+
+Julian date (JD)= Julian Date Number (JDN) + Fractional hours 
+
+JDN = ⌊365.25×( tahun +4716)⌋ + ⌊30.6001×(bulan+1)⌋ + hari + B −1524.5
+    B adalah faktor koreksi tahun kabisat ==> B = 2 − A + (A/4) ==> A = tahun / 100 => integer
+
+Fractional hours = (jam-12)/24 + m/1440 + detik/86400
+
+
 #### Penghitungan Sun declination
 
 sumber [video youtube](https://www.youtube.com/watch?v=ZALVBxzmPIk)
