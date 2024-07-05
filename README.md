@@ -82,3 +82,11 @@ pengamatan sun declination.
 
 Untuk menghitung sun declination:
 ![sun declination calculation](sun_declination_calculation.jpg "Penghitungan Sun Declination (aproksimasi)")
+
+#### Penghitungan waktu sholat
+
+mencari solar noon
+[solar Noon](solar_noon.jpg "Rumus mencari Solar Noon")
+
+setelah mendapat solar noon, menghitung waktu sholat
+[prayer times](prayers_formula.jpg "Rumus waktu sholat")
