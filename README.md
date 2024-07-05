@@ -86,7 +86,7 @@ Untuk menghitung sun declination:
 #### Penghitungan waktu sholat
 
 mencari solar noon
-[solar Noon](solar_noon.jpg "Rumus mencari Solar Noon")
+![solar Noon](solar_noon.jpg "Rumus mencari Solar Noon")
 
 setelah mendapat solar noon, menghitung waktu sholat
-[prayer times](prayers_formula.jpg "Rumus waktu sholat")
+![prayer times](prayers_formula.jpg "Rumus waktu sholat")
