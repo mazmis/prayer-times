@@ -16,17 +16,18 @@ Dalam penentuan waktu sholat di Qur'an Belajar, sebaiknya dipakai rules yaitu:
         Di negara-negara dengan garis lintang tinggi seperti Finlandia dan sebagian Inggris, terdapat pertimbangan khusus untuk perhitungan Subuh dan Isya selama periode siang atau malam terus menerus. Beberapa penyesuaian tersebut antara lain:
 
         - Metode Berbasis Sudut:
-
             Menggunakan sudut yang umum (misalnya 18 derajat untuk Fajar dan 17 derajat untuk Isya) tetapi dengan penyesuaian pada kondisi ekstrim.
+
         - Metode Tengah Malam:
-
             Membagi malam menjadi bagian yang sama dan menetapkan waktu Subuh dan Isya berdasarkan pembagian tersebut.
+
         - Metode Sepertujuh Malam:
-
             Membagi malam menjadi tujuh bagian dan menggunakan satu bagian untuk menentukan waktu Subuh dan Isya.
-        - Metode Lintang Terdekat:
 
+        - Metode Lintang Terdekat:
             Menggunakan waktu sholat dari lokasi terdekat pada garis lintang yang lebih rendah dimana terdapat kondisi senja yang normal.
+
+    - Di negara-negar semenanjung Arab, penghitungan umumnya menggunakan metode Ummul Quro, tetapi lembaga fatwa setempat juga menyesuaikan sudut-sudut subuh dan Isya sesuai dengan negara tersebut. Misal: Qatar, Uni Emirat Arab, Oman, Yaman, Kuwait, dll
 
 
 Di bawah ini adalah daftar kalkulasi waktu sholat dari sumber [islamicFInder](https://islamicfinder.org)
