@@ -10,6 +10,24 @@ Dalam penentuan waktu sholat di Qur'an Belajar, sebaiknya dipakai rules yaitu:
     - Ummul Quro (khusunya mekkah dan madinah)
     - Greater London (ada publikasi dalam bentuk pdf)
 
+2. Untuk wilayah yang tidak memiliki lembaga otoritas, maka penghitungan waktu sholat mengikuti formala kalkulasi dengan beberapa penyesuain diantarnya:
+    - Di negara-negara seperti Inggris bagian utara , negara-negara Skandinavia, dan Kanada bagian Utara, atau beberapa negara bagian di Selatan Australia dan Argentina bagian selatan  perhitungan waktu sholat bisa berbeda-beda, namun umumnya mengikuti salah satu metode yang diakui secara internasional. Karena letak lintangnya yang lebih tinggi, negara-negara ini mungkin juga menerapkan penyesuaian khusus untuk periode siang hari atau kegelapan terus menerus, seperti selama musim panas dan musim dingin.
+
+        Di negara-negara dengan garis lintang tinggi seperti Finlandia dan sebagian Inggris, terdapat pertimbangan khusus untuk perhitungan Subuh dan Isya selama periode siang atau malam terus menerus. Beberapa penyesuaian tersebut antara lain:
+
+        - Metode Berbasis Sudut:
+
+            Menggunakan sudut yang umum (misalnya 18 derajat untuk Fajar dan 17 derajat untuk Isya) tetapi dengan penyesuaian pada kondisi ekstrim.
+        - Metode Tengah Malam:
+
+            Membagi malam menjadi bagian yang sama dan menetapkan waktu Subuh dan Isya berdasarkan pembagian tersebut.
+        - Metode Sepertujuh Malam:
+
+            Membagi malam menjadi tujuh bagian dan menggunakan satu bagian untuk menentukan waktu Subuh dan Isya.
+        - Metode Lintang Terdekat:
+
+            Menggunakan waktu sholat dari lokasi terdekat pada garis lintang yang lebih rendah dimana terdapat kondisi senja yang normal.
+
 
 Di bawah ini adalah daftar kalkulasi waktu sholat dari sumber [islamicFInder](https://islamicfinder.org)
 ![daftar list kalkulasi sudut sholat](list_of_methods.jpg "Daftar cara penghitungan sudut sholat")
