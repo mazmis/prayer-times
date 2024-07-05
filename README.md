@@ -64,7 +64,7 @@ Seacara umum, langkah-langkah untuk menghitung waktu sholat adalah sebagai berik
     3. Menghitung waktu sholat dengan parameter solar declination dan EOT pada nomor 2, (termasuk parameter sudut subuh dan isya => tergantung metode yang digunakan lembaga penghitung)
 
 
-<u> #### Penghitungan waktu Julian</u>
+#### <u>Penghitungan waktu Julian</u>
 
 Julian date (JD)= Julian Date Number (JDN) + Fractional hours 
 
