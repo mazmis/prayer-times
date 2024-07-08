@@ -64,14 +64,17 @@ Seacara umum, langkah-langkah untuk menghitung waktu sholat adalah sebagai berik
     3. Menghitung waktu sholat dengan parameter solar declination dan EOT pada nomor 2, (termasuk parameter sudut subuh dan isya => tergantung metode yang digunakan lembaga penghitung)
 
 
-#### <u>Penghitungan waktu Julian</u>
+#### Penghitungan waktu Julian
 
 Julian date (JD)= Julian Date Number (JDN) + Fractional hours 
 
-JDN = ⌊365.25×( tahun +4716)⌋ + ⌊30.6001×(bulan+1)⌋ + hari + B −1524.5
+JDN = [365.25×( tahun +4716)] + [30.6001×(bulan+1)] + hari + B −1524.5
+
     B adalah faktor koreksi tahun kabisat ==> B = 2 − A + (A/4) ==> A = tahun / 100 => integer
 
 Fractional hours = (jam-12)/24 + m/1440 + detik/86400
+
+JD = JDN + Fractional hours
 
 
 #### Penghitungan Sun declination
@@ -82,6 +85,19 @@ pengamatan sun declination.
 
 Untuk menghitung sun declination:
 ![sun declination calculation](sun_declination_calculation.jpg "Penghitungan Sun Declination (aproksimasi)")
+
+
+#### Penghitungan Equation of time (EOT)
+
+EOT menghitung perbedaan antara waktu matahari (seperti yang ditunjukkan oleh jam matahari) dan waktu jam standar. Kesenjangan ini muncul karena perubahan stabilitas orbit bumi dan kemiringan sumbunya.
+
+EOT dihitung dengan rumus:
+
+EOT = 229.18 ( 0.000075 + 0.001868 cosB − 0.032077 sinB −0.014615 cos(2B) − 0.040849sin(2B))
+
+dengan:
+B = 360/365 * (n-81) => n adalah hari sejak awal tahun
+
 
 #### Penghitungan waktu sholat
 
